@@ -2,7 +2,7 @@
 
 ## Overview
 
-The goal of this project is to understand and test the use of the binary tree data structure in the C programming language. Some of the key points to be learned include:
+The goal of this project is to understand and test the use of the binary tree data structure in the C programming language. Some of the key points to be learnt include:
  - What is a binary tree
  - What is the difference between a binary tree and a Binary Search Tree
  - What is the possible gain in terms of the time complexity compared to linked lists
